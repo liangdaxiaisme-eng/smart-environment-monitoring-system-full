@@ -69,4 +69,6 @@ Thumbs.db
 
 # Temporary files
 tmp/
-temp/
+temp/*.docx
+*.txt
+*论文*
